@@ -1,0 +1,19 @@
+{
+  "name": "jsxhint-loader",
+  "version": "0.1.0",
+  "description": "jsxhint loader module for webpack",
+  "dependencies": {
+    "rcloader": "=0.1.2",
+    "strip-json-comments": "0.1.x"
+  },
+  "peerDependencies": {
+    "jshint-jsx": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "scripts": {},
+}
