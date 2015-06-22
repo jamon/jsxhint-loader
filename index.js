@@ -99,7 +99,7 @@ function jsHint(input, options) {
 }
 
 module.exports = function(input, map) {
-//	this.cacheable && this.cacheable();
+	this.cacheable && this.cacheable();
 	var callback = this.async();
 
 	if(!callback) {
