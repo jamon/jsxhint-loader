@@ -1,6 +1,6 @@
 {
   "name": "jshint-jsx-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "jshint-jsx loader module for webpack",
   "dependencies": {
     "rcloader": "=0.1.2",
