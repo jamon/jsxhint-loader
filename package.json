@@ -1,7 +1,7 @@
 {
-  "name": "jsxhint-loader",
+  "name": "jshint-jsx-loader",
   "version": "0.1.0",
-  "description": "jsxhint loader module for webpack",
+  "description": "jshint-jsx loader module for webpack",
   "dependencies": {
     "rcloader": "=0.1.2",
     "strip-json-comments": "0.1.x"
